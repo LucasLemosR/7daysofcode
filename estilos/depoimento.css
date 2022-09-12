@@ -1,0 +1,34 @@
+.depoimento__caixa {
+    display: grid;
+    margin: 8%;
+    padding: 5%;
+    align-items: center;
+    text-align: center;
+    background: var(--background-depoimento);
+    padding-bottom: 1rem;
+    justify-items: center;
+}
+
+.depoimento__titulo {
+    color: var(--botao-cadastrar);
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.depoimento__subtitulo {
+    color: var(--cor-subtitulo);
+    font-weight: 500;
+    font-size: 36px;
+}
+
+.depoimento__autora-nome {
+    color: var(--cor-subtitulo);
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.depoimento__autora-funcao {
+    color: var(--cinza-link);
+    font-weight: 400;
+    font-size: 14px;
+}

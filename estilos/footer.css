@@ -1,0 +1,38 @@
+.footer {
+    background: var(--background-footer);
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.footer__titulo {
+    color: var(--cor-subtitulo);
+    font-weight: 600;
+    font-size: 36px;
+    padding-top: 3em;
+}
+
+.footer__subtitulo {
+    color: var(--cinza-link);
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.footer__email {
+    border: 1px solid var(--caixa-email);
+    color: var(--cinza-link);
+    font-weight: 400;
+    font-size: 16px;
+    padding: 12px 14px 12px 16px;
+    border-radius: 8px;
+    margin-right: 2em;
+    padding-right: 6em;
+}
+
+.footer__rodape {
+    color: var(--cinza-link);
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 4em;
+}

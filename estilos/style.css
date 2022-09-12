@@ -1,0 +1,17 @@
+:root {
+    --preto-logo: #3A404E;
+    --cinza-link: #667085;
+    --fonte-principal: 'Inter';
+    --botao-cadastrar: #8E2424;
+    --cor-subtitulo: #101828;
+    --borda-vagas: 1px solid #EAECF0;
+    --background-depoimento:rgba(195, 25, 25, 0.03);
+    --background-footer: #F9FAFB;
+    --caixa-email:#D0D5DD;
+}
+
+body {
+    font-family: var(--fonte-principal);
+    background: #FFFFFF;
+}
+
